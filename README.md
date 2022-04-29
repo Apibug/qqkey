@@ -4,4 +4,4 @@
 更新了免杀360，无提示获取qqkey
 
 视频展示：
-# https://apibug.github.io/qqkey.html
+# https://apibug.github.io/
